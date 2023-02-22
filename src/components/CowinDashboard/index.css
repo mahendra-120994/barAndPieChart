@@ -1,0 +1,52 @@
+* {
+  font-family: 'Roboto';
+}
+.bg-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  width: 100%;
+  background-color: #161625;
+}
+.app-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding: 10px;
+  width: 60%;
+}
+.logo-container {
+  display: flex;
+  align-items: center;
+  align-self: flex-start;
+}
+.logo {
+  width: 28px;
+  margin: 5px;
+}
+.app-heading {
+  color: #2cc6c6;
+  font-size: 20px;
+}
+.heading {
+  color: #cbd5e1;
+  font-size: 30px;
+  align-self: flex-start;
+}
+.view-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 100%;
+}
+.failure-img {
+  text-align: center;
+  width: 50%;
+}
+.failure-heading {
+  color: #cbd5e1;
+  font-size: 30px;
+  text-align: center;
+}

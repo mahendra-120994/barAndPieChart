@@ -1,0 +1,10 @@
+.chart-container {
+  background-color: #1c1c2b;
+  width: 100%;
+  margin: 10px;
+  padding: 10px;
+}
+.headings {
+  color: #6c757d;
+  font-size: 24px;
+}
